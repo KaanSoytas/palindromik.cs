@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\palindromik\palindromik\bin\Debug\palindromik.exe.config
+C:\Users\Lenovo\source\repos\palindromik\palindromik\bin\Debug\palindromik.exe
+C:\Users\Lenovo\source\repos\palindromik\palindromik\bin\Debug\palindromik.pdb
+C:\Users\Lenovo\source\repos\palindromik\palindromik\obj\Debug\palindromik.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\palindromik\palindromik\obj\Debug\palindromik.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\palindromik\palindromik\obj\Debug\palindromik.exe
+C:\Users\Lenovo\source\repos\palindromik\palindromik\obj\Debug\palindromik.pdb
